@@ -54,5 +54,12 @@ namespace test
             window.Show();
             this.Close();
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Window3 window = new Window3();
+            window.Show();
+            this.Close();
+        }
     }
 }

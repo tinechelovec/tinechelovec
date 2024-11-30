@@ -17,3 +17,5 @@ C:\Users\kirilkaurd2\source\repos\test\test\obj\Debug\test.exe
 C:\Users\kirilkaurd2\source\repos\test\test\obj\Debug\test.pdb
 C:\Users\kirilkaurd2\source\repos\test\test\obj\Debug\Window2.g.cs
 C:\Users\kirilkaurd2\source\repos\test\test\obj\Debug\Window2.baml
+C:\Users\kirilkaurd2\source\repos\test\test\obj\Debug\Window3.g.cs
+C:\Users\kirilkaurd2\source\repos\test\test\obj\Debug\Window3.baml
